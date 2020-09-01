@@ -1,0 +1,24 @@
+PODS:
+  - LibTorch (1.5.0):
+    - LibTorch/Core (= 1.5.0)
+  - LibTorch/Core (1.5.0):
+    - LibTorch/Torch
+  - LibTorch/Torch (1.5.0)
+  - OpenCV (4.1.0)
+
+DEPENDENCIES:
+  - LibTorch (~> 1.5.0)
+  - OpenCV (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - LibTorch
+    - OpenCV
+
+SPEC CHECKSUMS:
+  LibTorch: 6752ffb58ea396b672a2df6f14970bdbc7219de4
+  OpenCV: 52cd4d72ff29e2be83421477aec5447320b7fb19
+
+PODFILE CHECKSUM: 4c35f9388f4d3050787fe70b1804bf0429b73af0
+
+COCOAPODS: 1.5.0
