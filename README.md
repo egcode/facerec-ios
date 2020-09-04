@@ -15,8 +15,7 @@ pod install
 <br><br>
 <img src="readme/demo.gif" width="250">
 
-<br>
-To use your own images try [Quickstart](https://github.com/egcode/facerec#QuickStart) and then: <br>
+To use your own images try  [Quickstart](https://github.com/egcode/facerec#QuickStart) and then: <br>
 1. Trace your model. Trace model script [here](https://github.com/egcode/facerec/blob/master/trace_model.py) <br>
 2. Convert your hdf5 to protobuf. Create protobuf script [here](https://github.com/egcode/facerec/blob/master/protobuf/convert_from_h5_to_protobuf.py)
 
